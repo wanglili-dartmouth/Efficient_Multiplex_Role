@@ -13,6 +13,8 @@ varied_p.py        node clustering and classification experiments on synthetic g
 gender.py          gendered influence experiment
 
 
+real world dataset is coming soon (it is too large)
+
 Code reference:
 
 This code is built upon the code of the following papers:
